@@ -33,7 +33,7 @@ export default function Footer() {
           .
           <br />
           The source code is available on{" "}
-          <a href="#" target="_blank">
+          <a href="https://github.com/Lyle-Stack/lyleliao" target="_blank">
             GitHub
           </a>
           .
