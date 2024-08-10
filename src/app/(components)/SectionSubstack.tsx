@@ -17,7 +17,7 @@ export default function SectionSubstack() {
             loading="lazy"
             decoding="async"
             className="h-5"
-            src="/substack_wordmark.png"
+            src="https://s3.ap-southeast-2.amazonaws.com/lyleliao.com/public/substack_wordmark.png"
           ></img>
         </h2>
         <Popover>
