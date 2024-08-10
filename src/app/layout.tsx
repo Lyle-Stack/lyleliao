@@ -14,7 +14,6 @@ export const metadata: Metadata = {
   },
   keywords: ["廖仲逸", "Lyle Liao", "生產力", "創造力"],
   referrer: "origin",
-  themeColor: "#ffbe00",
   creator: "廖仲逸 Lyle Liao",
   publisher: "廖仲逸 Lyle Liao",
   robots: "index, follow",
