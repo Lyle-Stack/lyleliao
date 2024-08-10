@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import HandDrawArrowRightIcon from "../../components/icon/HndDrawArrowEightIcon";
+import HandDrawArrowRightIcon from "../../components/icon/HandDrawArrowEightIcon";
 
 export default function SectionAboutMe() {
   return (
