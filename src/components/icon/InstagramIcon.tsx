@@ -10,9 +10,9 @@ export default function InstagramIcon() {
       xmlSpace="preserve"
     >
       <style type="text/css">
-        {`.st0Ins{fill-rule:evenodd;clip-rule:evenodd;fill:#ED74A5;}
+        {`.st0Ins{fillRule:evenodd;clip-rule:evenodd;fill:#ED74A5;}
 	.st2Ins{fill:#FFFFFF;}
-	.st3Ins{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st3Ins{fillRule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
       `}
       </style>
       <g>

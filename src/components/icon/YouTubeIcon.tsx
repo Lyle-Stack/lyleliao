@@ -10,8 +10,8 @@ export default function YouTubeIcon() {
       xmlSpace="preserve"
     >
       <style type="text/css">
-        {`.st3YT{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
-	.st8YT{fill-rule:evenodd;clip-rule:evenodd;fill:#FF697B;}
+        {`.st3YT{fillRule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st8YT{fillRule:evenodd;clip-rule:evenodd;fill:#FF697B;}
 `}
       </style>
       <g>

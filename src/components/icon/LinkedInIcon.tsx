@@ -11,8 +11,8 @@ export default function LinkedInIcon() {
     >
       <style type="text/css">
         {`.st2LinkedIn{fill:#FFFFFF;}
-	.st3LinkedIn{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
-	.st12LinkedIn{fill-rule:evenodd;clip-rule:evenodd;fill:#387FB5;}`}
+	.st3LinkedIn{fillRule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st12LinkedIn{fillRule:evenodd;clip-rule:evenodd;fill:#387FB5;}`}
       </style>
       <g>
         <path
