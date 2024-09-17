@@ -40,8 +40,10 @@ export const metadata: Metadata = {
 
 export default function RootLayout({
   children,
+  modal,
 }: Readonly<{
   children: React.ReactNode;
+  modal: React.ReactNode;
 }>) {
   return (
     <html lang="en" className="scroll-smooth">
@@ -58,7 +60,10 @@ export default function RootLayout({
           rel="stylesheet"
         />
       </head>
-      <body className="bg-background">{children}</body>
+      <body className="bg-background">
+        {children}
+        {modal}
+      </body>
     </html>
   );
 }

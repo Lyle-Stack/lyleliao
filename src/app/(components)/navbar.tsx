@@ -41,12 +41,10 @@ export default function Navbar() {
           ></img>
         </Link>
         <NavigationMenu>
-          <NavigationMenuList className="flex-1 justify-evenly">
+          <NavigationMenuList className="flex-1 justify-evenly gap-8">
             <NavigationMenuLink asChild>
               <NavigationMenuItem>
-                <Link href="#contact" prefetch={false}>
-                  聯繫我
-                </Link>
+                <Link href="/announcement">前往 Ver.2 頁面</Link>
               </NavigationMenuItem>
             </NavigationMenuLink>
           </NavigationMenuList>
