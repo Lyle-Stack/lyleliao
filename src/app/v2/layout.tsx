@@ -9,6 +9,15 @@ export const metadata: Metadata = {
     url: "https://lyleliao.com/v2",
     description:
       "Introduction of Lyle Liao, A Full-Stack web Developer with productive, patient, enthusiasm in frontend and AI technology.",
+    images: [
+      {
+        url: "https://s3.ap-southeast-2.amazonaws.com/lyleliao.com/public/opengraph_v2.png",
+      },
+    ],
+  },
+  twitter: {
+    images:
+      "https://s3.ap-southeast-2.amazonaws.com/lyleliao.com/public/opengraph_v2.png",
   },
 };
 
