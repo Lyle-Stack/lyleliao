@@ -12,7 +12,16 @@ export default function Resume() {
           >
             Download
           </a>{" "}
-          the resume.
+          the resume. or{" "}
+          <a
+            href={`https://drive.google.com/file/d/${process.env.NEXT_PUBLIC_CHINESE_RESUME_LINK}/view?usp=sharing`}
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Go to Resume Page"
+          >
+            Download
+          </a>{" "}
+          Chinese Version
         </p>
         <div className="aspect-a4">
           <iframe
