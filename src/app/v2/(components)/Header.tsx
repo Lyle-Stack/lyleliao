@@ -31,7 +31,8 @@ export default function V2Header({ className }: HTMLAttributes<HTMLElement>) {
           style={{
             color: "transparent",
           }}
-          src="https://s3.ap-southeast-2.amazonaws.com/lyleliao.com/public/lyleLogo.90bdc02f.svg"
+          // src="https://s3.ap-southeast-2.amazonaws.com/lyleliao.com/public/lyleLogo.90bdc02f.svg"
+          src="https://s3.ap-southeast-2.amazonaws.com/lyleliao.com/public/lyleLogo.webp"
         ></img>
       </Link>
       <div className="flex flex-row items-center gap-4 footerLinks">

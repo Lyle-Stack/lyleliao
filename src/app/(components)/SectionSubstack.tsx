@@ -69,6 +69,7 @@ export default function SectionSubstack() {
             border: "0px solid #EEE",
             background: "transparent",
           }}
+          loading="lazy"
           frameBorder="0"
           scrolling="no"
         ></iframe>

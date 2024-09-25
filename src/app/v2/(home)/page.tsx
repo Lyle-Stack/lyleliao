@@ -29,7 +29,7 @@ export default function V2() {
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               alt="廖仲逸 Lyle Liao"
-              loading="lazy"
+              loading="eager"
               decoding="async"
               style={{
                 position: "absolute",
@@ -42,7 +42,8 @@ export default function V2() {
                 objectFit: "cover",
                 color: "transparent",
               }}
-              src="https://s3.ap-southeast-2.amazonaws.com/lyleliao.com/public/lyleHero.95f30b8b.svg"
+              // src="https://s3.ap-southeast-2.amazonaws.com/lyleliao.com/public/lyleHero.95f30b8b.svg"
+              src="https://s3.ap-southeast-2.amazonaws.com/lyleliao.com/public/lyleHero.webp"
             ></img>
           </div>
         </div>
@@ -100,7 +101,7 @@ export default function V2() {
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
                   alt="Substack"
-                  loading="lazy"
+                  loading="eager"
                   decoding="async"
                   className="h-9"
                   src="/substack.png"

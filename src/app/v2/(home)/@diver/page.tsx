@@ -32,7 +32,7 @@ export default function Diver() {
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
                   alt="Submit of Elbrus"
-                  loading="lazy"
+                  loading="eager"
                   decoding="async"
                   src="https://s3.ap-southeast-2.amazonaws.com/lyleliao.com/public/P1024920.webp"
                   style={{

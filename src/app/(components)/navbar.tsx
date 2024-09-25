@@ -37,7 +37,8 @@ export default function Navbar() {
             style={{
               color: "transparent",
             }}
-            src="https://s3.ap-southeast-2.amazonaws.com/lyleliao.com/public/lyleLogo.90bdc02f.svg"
+            // src="https://s3.ap-southeast-2.amazonaws.com/lyleliao.com/public/lyleLogo.90bdc02f.svg"
+            src="https://s3.ap-southeast-2.amazonaws.com/lyleliao.com/public/lyleLogo.webp"
           ></img>
         </Link>
         <NavigationMenu>
